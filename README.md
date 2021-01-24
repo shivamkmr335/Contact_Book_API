@@ -28,7 +28,7 @@ Features:
   
   
 Packages Used:   	
-      1. Mongoose(5.0.2)
-			2. bcrypt(1.0.3)
-			3. express(4.16.2)
-			4. joi(13.1.0)
+  1. Mongoose(5.0.2)
+  2. bcrypt(1.0.3)
+  3. express(4.16.2)
+  4. joi(13.1.0)
