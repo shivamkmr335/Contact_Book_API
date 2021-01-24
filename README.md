@@ -27,7 +27,6 @@ Features:
   4.The password are first hashed using bcrypt and then stored into the database.
   
   
-  
 Packages Used:   	
       1. Mongoose(5.0.2)
 			2. bcrypt(1.0.3)
