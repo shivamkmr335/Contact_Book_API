@@ -1,14 +1,14 @@
 # Contact_Book_API
 
 AIM: 
-  Develop a suite of CRUD APIs for a contact book app
-  Each contact should have a unique email address
-  APIs should support adding/editing/deleting contacts
-  Allow searching by name and email address
-  Search should support pagination and should return 10 items by default per invocation
-  Add unit tests and Integration tests for each functionality.
-  Add basic authentication for the app. Use environment variables or basic auth(for rest APIs)
-  The code should scale-out for millions of contacts per contact book
+  1. Develop a suite of CRUD APIs for a contact book app
+  2. Each contact should have a unique email address
+  3. APIs should support adding/editing/deleting contacts
+  4. Allow searching by name and email address
+  5. Search should support pagination and should return 10 items by default per invocation
+  6. Add unit tests and Integration tests for each functionality.
+  7. Add basic authentication for the app. Use environment variables or basic auth(for rest APIs)
+  8. The code should scale-out for millions of contacts per contact book
 
 Technologies Used:
   1.Node JS
